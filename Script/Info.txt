@@ -1,0 +1,7 @@
+Player_Exective and Additional Exective folder are codes that inherit from MonoBehaviour and can be attache to Gameobject or Player.
+Player_Exective and Additional Exective folder codes mostly have interface IPlayerable Which mean they are player and they have health they can be damage etc. 
+PlayerSysteam folder have Gameinteract code that have two clases PlayerSystem and AISystem and mostly Exective code inherit from them.
+TecCode have codes like a Ray to start ray from Gameobject left and right and check if the ray hit wall or etc.. 
+PlayerSysteam use TecCode and struct.
+
+:) Thanks
